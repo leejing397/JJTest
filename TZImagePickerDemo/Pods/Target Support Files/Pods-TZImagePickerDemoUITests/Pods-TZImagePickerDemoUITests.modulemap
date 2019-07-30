@@ -1,0 +1,6 @@
+framework module Pods_TZImagePickerDemoUITests {
+  umbrella header "Pods-TZImagePickerDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
